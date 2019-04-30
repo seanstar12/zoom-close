@@ -3,7 +3,7 @@
 
   "name": "Zoom Closer",
   "description": "This extension automatically closes the launced window from Zoom meetings.",
-  "version": "1.4",
+  "version": "1.5",
 
   "icons": {
     "16": "assets/icon-16.png",
@@ -21,7 +21,8 @@
     {
       "matches": [
         "https://zoom.us/postattendee",
-        "https://zoom.us/j/*"
+        "https://zoom.us/j/*",
+        "https://*.zoom.us/j/*"
       ],
       "js": [
         "content.js"
