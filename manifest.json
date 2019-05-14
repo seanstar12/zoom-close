@@ -22,7 +22,9 @@
       "matches": [
         "https://zoom.us/postattendee",
         "https://zoom.us/j/*",
-        "https://*.zoom.us/j/*"
+        "https://*.zoom.us/j/*",
+        "https://zoom.us/s/*",
+        "https://*.zoom.us/s/*"
       ],
       "js": [
         "content.js"
