@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Zoom Closer",
-  "description": "This extension automatically closes the launced window from Zoom meetings.",
+  "description": "This extension automatically closes the launched window from Zoom meetings.",
   "version": "1.5",
 
   "icons": {
@@ -13,8 +13,8 @@
 
   "background": {
     "scripts": [
-      "background.js" 
-    ] 
+      "background.js"
+    ]
   },
 
   "content_scripts": [
