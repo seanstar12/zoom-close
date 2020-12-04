@@ -26,7 +26,6 @@
         "https://zoom.us/s/*",
         "https://*.zoom.us/s/*",
         "https://zoom.us/w/*",
-        "https://*.zoom.us/w/*"
         "https://zoom.us/wc/leave*",
       ],
       "js": [
