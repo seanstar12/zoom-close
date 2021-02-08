@@ -24,7 +24,11 @@
         "https://zoom.us/j/*",
         "https://*.zoom.us/j/*",
         "https://zoom.us/s/*",
-        "https://*.zoom.us/s/*"
+        "https://*.zoom.us/s/*",
+        "https://zoomgov.com/j/*",
+        "https://*.zoomgov.com/j/*",
+        "https://zoomgov.com/s/*",
+        "https://*.zoomgov.com/s/*"
       ],
       "js": [
         "content.js"
