@@ -1,3 +1,4 @@
-setTimeout(function() {
-  chrome.runtime.sendMessage({}, function() {});
-}, 6000);
+const closeTab = () => chrome.runtime.sendMessage({}, () => {});
+
+window.onblur = closeTab();
+setTimeout(closeTab, 6000);
