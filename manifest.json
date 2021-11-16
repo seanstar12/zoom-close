@@ -21,6 +21,7 @@
     {
       "matches": [
         "https://zoom.us/postattendee",
+        "https://zoom.us/wc/leave",
         "https://zoom.us/j/*",
         "https://*.zoom.us/j/*",
         "https://zoom.us/s/*",
