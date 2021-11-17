@@ -19,6 +19,7 @@
 
   "content_scripts": [
     {
+      "run_at": "document_start",
       "matches": [
         "https://zoom.us/postattendee",
         "https://zoom.us/j/*",
