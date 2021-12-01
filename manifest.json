@@ -21,6 +21,7 @@
     {
       "run_at": "document_start",
       "matches": [
+        "https://teams.microsoft.com/dl/launcher/*",
         "https://zoom.us/postattendee",
         "https://zoom.us/j/*",
         "https://*.zoom.us/j/*",
